@@ -52,7 +52,7 @@ projects[checklistapi][subdir] = contrib
 projects[checklistapi][version] = 1.0-beta4
 
 projects[chosen][subdir] = contrib
-projects[chosen][version] = 2.0-alpha1
+projects[chosen][version] = 2.0-alpha2
 
 projects[ckeditor][subdir] = contrib
 projects[ckeditor][version] = 1.13
@@ -88,7 +88,7 @@ projects[email][subdir] = contrib
 projects[email][version] = 1.2
 
 projects[entity][subdir] = contrib
-projects[entity][version] = 1.0
+projects[entity][version] = 1.1
 
 projects[entityreference][subdir] = contrib
 projects[entityreference][version] = 1.0
