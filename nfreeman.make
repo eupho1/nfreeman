@@ -1,7 +1,7 @@
 core = 7.x
 api = 2
 projects[addressfield][subdir] = contrib
-projects[addressfield][version] = 1.0-beta3
+projects[addressfield][version] = 1.0-beta4
 
 projects[addthis][subdir] = contrib
 projects[addthis][version] = 4.0-alpha2
@@ -99,9 +99,8 @@ projects[fpa][version] = 2.2
 projects[features][subdir] = contrib
 projects[features][version] = 2.0-beta2
 
-projects[feeds][downlaod] = git
-projects[feeds][version] = 2.x-dev
 projects[feeds][subdir] = contrib
+projects[feeds][version] = 2.0-alpha8
 
 projects[field_collection][subdir] = contrib
 projects[field_collection][version] = 1.0-beta5
@@ -129,6 +128,9 @@ projects[fivestar][version] = 2.0-alpha2
 
 projects[flag][subdir] = contrib
 projects[flag][version] = 3.0-alpha4
+
+projects[fontyourface][subdir] = contrib
+projects[fontyourface][version] = 2.8
 
 projects[footnotes][subdir] = contrib
 projects[footnotes][version] = 2.5
@@ -182,13 +184,13 @@ projects[media_vimeo][subdir] = contrib
 projects[media_vimeo][version] = 2.x-dev
 
 projects[media_youtube][subdir] = contrib
-projects[media_youtube][version] = 2.0-rc2
+projects[media_youtube][version] = 2.0-rc3
 
 projects[mediafront][subdir] = contrib
 projects[mediafront][version] = 2.0-rc8
 
 projects[metatag][subdir] = contrib
-projects[metatag][version] = 1.0-beta6
+projects[metatag][version] = 1.0-beta7
 
 projects[module_filter][subdir] = contrib
 projects[module_filter][version] = 2.x-dev
@@ -299,7 +301,7 @@ projects[typogrify][subdir] = contrib
 projects[typogrify][version] = 1.0-rc6
 
 projects[twitter][subdir] = contrib
-projects[twitter][version] = 5.6
+projects[twitter][version] = 5.7
 
 projects[views][subdir] = contrib
 projects[views][version] = 3.7
@@ -317,7 +319,7 @@ projects[webform][subdir] = contrib
 projects[webform][version] = 3.18
 
 projects[wysiwyg][subdir] = contrib
-projects[wysiwyg][version] = 2.x-dev
+projects[wysiwyg][version] = 2.2+7-dev
 
 projects[xmlsitemap][subdir] = contrib
 projects[xmlsitemap][version] = 2.0-rc2
