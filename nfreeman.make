@@ -36,18 +36,6 @@ projects[calendar][version] = 3.4
 projects[caption_filter][subdir] = contrib
 projects[caption_filter][version] = 1.2
 
-projects[comment_notify][subdir] = contrib
-projects[comment_notify][version] = 1.2
-
-projects[contentanalysis][subdir] = contrib
-projects[contentanalysis][version] = 1.0-beta5
-
-projects[contentoptimizer][subdir] = contrib
-projects[contentoptimizer][version] = 2.0-beta4
-
-projects[ctools][subdir] = contrib
-projects[ctools][version] = 1.3
-
 projects[checklistapi][subdir] = contrib
 projects[checklistapi][version] = 1.0-beta4
 
@@ -60,11 +48,23 @@ projects[ckeditor][version] = 1.13
 projects[ckeditor_link][subdir] = contrib
 projects[ckeditor_link][version] = 2.3+1-dev
 
+projects[comment_notify][subdir] = contrib
+projects[comment_notify][version] = 1.2
+
+projects[contentanalysis][subdir] = contrib
+projects[contentanalysis][version] = 1.0-beta5
+
+projects[contentoptimizer][subdir] = contrib
+projects[contentoptimizer][version] = 2.0-beta4
+
 projects[context][subdir] = contrib
 projects[context][version] = 3.0-beta6
 
 projects[context_keywords][subdir] = contrib
 projects[context_keywords][version] = 1.0-beta1
+
+projects[ctools][subdir] = contrib
+projects[ctools][version] = 1.3
 
 projects[date][subdir] = contrib
 projects[date][version] = 2.6
@@ -75,11 +75,11 @@ projects[devel][version] = 1.3
 projects[diff][subdir] = contrib
 projects[diff][version] = 3.2
 
-projects[ds][subdir] = contrib
-projects[ds][version] = 2.2
-
 projects[draggableviews][subdir] = contrib
 projects[draggableviews][version] = 2.0
+
+projects[ds][subdir] = contrib
+projects[ds][version] = 2.2
 
 projects[edit][subdir] = contrib
 projects[edit][version] = 1.0-alpha11
@@ -113,9 +113,6 @@ projects[field_group][version] = 1.1+65-dev
 
 projects[file_entity][subdir] = contrib
 projects[file_entity][version] = 2.0-unstable7
-
-projects[filefield_nginx_progress][subdir] = contrib
-projects[filefield_nginx_progress][version] = 2.3
 
 projects[filefield_paths][subdir] = contrib
 projects[filefield_paths][version] = 1.0-beta3
@@ -240,11 +237,11 @@ projects[rules][version] = 2.3
 projects[scheduler][subdir] = contrib
 projects[scheduler][version] = 1.0
 
-projects[security_review][subdir] = contrib
-projects[security_review][version] = 1.0
-
 projects[search404][subdir] = contrib
 projects[search404][version] = 1.2
+
+projects[security_review][subdir] = contrib
+projects[security_review][version] = 1.0
 
 projects[select_or_other][subdir] = contrib
 projects[select_or_other][version] = 2.15
@@ -255,14 +252,11 @@ projects[shs][version] = 1.6
 projects[site_verify][subdir] = contrib
 projects[site_verify][version] = 1.0
 
-projects[soundmanager2][subdir] = contrib
-projects[soundmanager2][version] = 2.0-beta1
+projects[seo_checker][subdir] = contrib
+projects[seo_checker][version] = 1.6
 
 projects[seo_checklist][subdir] = contrib
 projects[seo_checklist][version] = 4.1
-
-projects[seo_checker][subdir] = contrib
-projects[seo_checker][version] = 1.6
 
 projects[seo_ui][subdir] = contrib
 projects[seo_ui][version] = 1.0
@@ -272,6 +266,9 @@ projects[seotools][version] = 1.0-alpha5
 
 projects[shorten][subdir] = contrib
 projects[shorten][version] = 1.2
+
+projects[soundmanager2][subdir] = contrib
+projects[soundmanager2][version] = 2.0-beta1
 
 projects[strongarm][subdir] = contrib
 projects[strongarm][version] = 2.0
