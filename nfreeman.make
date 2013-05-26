@@ -25,7 +25,7 @@ projects[alchemy][subdir] = contrib
 projects[alchemy][version] = 1.0-beta1
 
 projects[backup_migrate][subdir] = contrib
-projects[backup_migrate][version] = 2.5
+projects[backup_migrate][version] = 2.7
 
 projects[bean][subdir] = contrib
 projects[bean][version] = 1.1
@@ -79,7 +79,7 @@ projects[draggableviews][subdir] = contrib
 projects[draggableviews][version] = 2.0
 
 projects[ds][subdir] = contrib
-projects[ds][version] = 2.2
+projects[ds][version] = 2.3
 
 projects[edit][subdir] = contrib
 projects[edit][version] = 1.0-alpha11
@@ -106,10 +106,7 @@ projects[field_collection][subdir] = contrib
 projects[field_collection][version] = 1.0-beta5
 
 projects[field_group][subdir] = contrib
-projects[field_group][version] = 1.1+65-dev
-
-;projects[field_group][subdir] = contrib
-;projects[field_group][version] = 2.x-dev
+projects[field_group][version] = 1.1+67-dev
 
 projects[file_entity][subdir] = contrib
 projects[file_entity][version] = 2.0-unstable7
@@ -119,6 +116,9 @@ projects[filefield_paths][version] = 1.0-beta3
 
 projects[filefield_sources][subdir] = contrib
 projects[filefield_sources][version] = 1.7
+
+projects[fitvids][subdir] = contrib
+projects[fitvids][version] = 1.9
 
 projects[fivestar][subdir] = contrib
 projects[fivestar][version] = 2.0-alpha2
@@ -210,6 +210,9 @@ projects[pathauto][version] = 1.2
 projects[pathologic][subdir] = contrib
 projects[pathologic][version] = 2.10
 
+projects[picture][subdir] = contrib
+projects[picture][version] = 1.1
+
 projects[qa_checklist][subdir] = contrib
 projects[qa_checklist][version] = 1.0-rc1
 
@@ -224,6 +227,9 @@ projects[redirect][version] = 1.0-rc1
 
 projects[reroute_email][subdir] = contrib
 projects[reroute_email][version] = 1.1
+
+projects[retina_images][subdir] = contrib
+projects[retina_images][version] = 1.0-beta4
 
 projects[revisioning][subdir] = contrib
 projects[revisioning][version] = 1.4
@@ -316,7 +322,7 @@ projects[webform][subdir] = contrib
 projects[webform][version] = 3.18
 
 projects[wysiwyg][subdir] = contrib
-projects[wysiwyg][version] = 2.2+7-dev
+projects[wysiwyg][version] = 2.2+17-dev
 
 projects[xmlsitemap][subdir] = contrib
 projects[xmlsitemap][version] = 2.0-rc2
@@ -345,3 +351,6 @@ libraries[php-text-statistics][download][url] = https://github.com/DaveChild/Tex
 ;
 ;libraries[chosen][download][type] = "file"
 ;libraries[chosen][download][url] = "https://github.com/harvesthq/chosen.git"
+;
+;libraries[fitvid.js][download][type] = "file"
+;libraries[fitvid.js][download][url] = "https://raw.github.com/davatron5000/FitVids.js/master/jquery.fitvids.js"
