@@ -1,0 +1,7 @@
+<?php
+/**
+* @file
+* Code for the nfreeman core feature.
+*/
+
+include_once 'nfreeman_core.features.inc';

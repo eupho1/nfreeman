@@ -1,0 +1,13 @@
+<?php
+/**
+ * @file
+ * Install, uninstall and update functions for nfreeman Core module.
+ */
+
+/**
+ * Flush all caches and revert all features.
+ */
+function nfreeman_update_7100() {
+  drupal_flush_all_caches();
+  features_revert();
+}

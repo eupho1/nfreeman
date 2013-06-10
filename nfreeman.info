@@ -2,3 +2,22 @@ name = nfreeman.com
 description = Installation profile for nfreeman.com
 version = 1.01x-dev
 core = 7.x
+
+;Core dependencies
+dependencies[] = contextual
+dependencies[] = field_ui
+dependencies[] = menu
+dependencies[] = overlay
+dependencies[] = path
+
+;Contrib dependencies
+dependencies[] = features
+
+;Features
+dependencies[] = nfreeman_core
+
+;Temporary dependencies
+dependencies[] = omega_tools
+
+
+

@@ -1,5 +1,9 @@
 core = 7.x
 api = 2
+
+;
+;Modules - Contrib
+;
 projects[addressfield][subdir] = contrib
 projects[addressfield][version] = 1.0-beta4
 
@@ -340,17 +344,24 @@ libraries[php-text-statistics][download][url] = https://github.com/DaveChild/Tex
 ;libraries[soundmanager2][download][type] = "file"
 ;libraries[soundmanager2][download][url] = "https://github.com/scottschiller/SoundManager2.git"
 ;
-;libraries[jquery.cycle][download][type] = file
+;libraries[jquery.cycle][download][type] = "get"
 ;libraries[jquery.cycle][download][url] = "https://github.com/downloads/malsup/cycle/jquery.cycle.lite.1.1.min.js"
 ;
-;libraries[jQuery][download][type] = "file"
+;libraries[jQuery][download][type] = "get"
 ;libraries[jQuery][download][url] = "www.jplayer.org/latest/jQuery.jPlayer.2.2.0.zip"
 ;
-;libraries[ckeditor][download][type] = file
-;libraries[ckeditor][download][url] = "download.cksource.com/CKEditor/CKEditor/CKEditor%204.1/ckeditor_4.1_standard.zip"
-;
+libraries[ckeditor][download][type] = "get"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.1/ckeditor_4.1_standard.zip"
+
 ;libraries[chosen][download][type] = "file"
 ;libraries[chosen][download][url] = "https://github.com/harvesthq/chosen.git"
 ;
 ;libraries[fitvid.js][download][type] = "file"
 ;libraries[fitvid.js][download][url] = "https://raw.github.com/davatron5000/FitVids.js/master/jquery.fitvids.js"
+
+;
+;Themes
+;
+projects[omega][type] = "theme"
+projects[omega]version] = "3.1"
+
