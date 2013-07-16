@@ -197,7 +197,7 @@ projects[module_filter][subdir] = contrib
 projects[module_filter][version] = 2.x-dev
 
 projects[mollom][subdir] = contrib
-projects[mollom][version] = 2.6
+projects[mollom][version] = 2.7
 
 projects[oauth][subdir] = contrib
 projects[oauth][version] = 3.1
@@ -248,7 +248,7 @@ projects[scheduler][subdir] = contrib
 projects[scheduler][version] = 1.0
 
 projects[search404][subdir] = contrib
-projects[search404][version] = 1.2
+projects[search404][version] = 1.3
 
 projects[security_review][subdir] = contrib
 projects[security_review][version] = 1.0
@@ -351,7 +351,7 @@ libraries[php-text-statistics][download][url] = https://github.com/DaveChild/Tex
 ;libraries[jQuery][download][url] = "www.jplayer.org/latest/jQuery.jPlayer.2.2.0.zip"
 ;
 libraries[ckeditor][download][type] = "get"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.1/ckeditor_4.1_standard.zip"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.1.2/ckeditor_4.1.2_standard.zip"
 
 ;libraries[chosen][download][type] = "file"
 ;libraries[chosen][download][url] = "https://github.com/harvesthq/chosen.git"
@@ -363,5 +363,4 @@ libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEd
 ;Themes
 ;
 projects[omega][type] = "theme"
-projects[omega]version] = "3.1"
-
+projects[omega]version] = "3.1"2
